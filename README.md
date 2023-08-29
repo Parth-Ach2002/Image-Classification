@@ -17,10 +17,6 @@ Convolutional neural networks are distinguished from other neural networks by th
 <br>
 
 # What are we doing in this project?
-
-<br>
-<br>
-
 In this particular project we will be working upon Image Classification using Convolutional Neural Network(CNN). We are using CNN because of its superior performance with image classification models.
 
 <br>
