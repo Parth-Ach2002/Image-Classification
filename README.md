@@ -4,6 +4,13 @@ Here we will be using Convolutional Neural Networks beacuse of their superior pe
 # Convolutional Neural Network(CNN)
 A Convolutional Neural Network (CNN) is a type of artificial neural network specifically designed for processing structured grid data, such as images and videos. CNNs are particularly powerful for tasks like image recognition, object detection, and image classification because they can automatically learn and extract meaningful features from the data.
 
+<br>
+Convolutional neural networks are distinguished from other neural networks by their superior performance with image, speech, or audio signal inputs. They have three main types of layers, which are:
+
+1 . Convolutional layer
+2 . Pooling layer
+3 . Fully-connected (FC) layer
+
 Traffic signs Include:
 
 
@@ -24,3 +31,5 @@ https://github.com/Parth-Ach2002
 https://github.com/DhruvOli
 # Debapratim Chakraborty (21BSR18004) 
 https://github.com/DC-x-2003
+
+
