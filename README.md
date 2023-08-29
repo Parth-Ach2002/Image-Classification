@@ -1,6 +1,8 @@
 # Image-Classification:
 A Deep Learning Project consisting of image classification and gradio interface for recognising and classifying traffic signs.
 Here we will be using Convolutional Neural Networks beacuse of their superior performance with image inputs.
+# Convolutional Neural Network(CNN)
+A Convolutional Neural Network (CNN) is a type of artificial neural network specifically designed for processing structured grid data, such as images and videos. CNNs are particularly powerful for tasks like image recognition, object detection, and image classification because they can automatically learn and extract meaningful features from the data.
 
 Traffic signs Include:
 
