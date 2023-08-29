@@ -16,7 +16,7 @@ Convolutional neural networks are distinguished from other neural networks by th
 3 . Fully-connected (FC) layer
 <br>
 
-# What are we doing in this project?
+## What are we doing in this project?
 In this particular project we will be working upon Image Classification using Convolutional Neural Network(CNN). We are using CNN because of its superior performance with image classification models.
 
 <br>
@@ -24,6 +24,7 @@ In this particular project we will be working upon Image Classification using Co
 Here we are classifying three categories of traffic signs namely:
 <br>
 <br>
+
 [a] No Parking
 [b] One Way
 [c] Zebra Crossing
