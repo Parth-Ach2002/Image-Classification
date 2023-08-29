@@ -6,10 +6,15 @@ A Convolutional Neural Network (CNN) is a type of artificial neural network spec
 
 <br>
 Convolutional neural networks are distinguished from other neural networks by their superior performance with image, speech, or audio signal inputs. They have three main types of layers, which are:
+<br>
+
 
 1 . Convolutional layer
+<br>
 2 . Pooling layer
+<br>
 3 . Fully-connected (FC) layer
+<br>
 
 Traffic signs Include:
 
