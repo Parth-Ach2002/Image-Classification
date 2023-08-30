@@ -36,13 +36,30 @@ Here we are classifying three categories of traffic signs namely:
 
 
 ## How did we collect our data?
-<br>
 Most of our images is collected by us through mobile photography. We went to multiple roads and clicked the photos of our desired traffic signs and aggregated them together in the form of a dataset. 
 <br>
 Some of our images is also collected through online sources and then we combined every photos to form a perfect dataset of images with the same image type. 
 We also went through the street view of google maps and captured the images of traffic signs in the form of screenshot.
 <br>
 
+## Procedure
+### Importing libraries
+The necessary libraries are imported for preprocessing and model creation.
+<br>
+
+### Importing data file
+Dataset is uploaded for the further use
+<br>
+
+### Preprocessing
+Data is rescaled and normalised in order to maintain uniformity. Here uniformity means converting all the images to a fixed size for better performance of model.
+<br>
+A little bit of data augmentation has also been performed.
+<br>
+
+### Model creation 
+A Sequential model using Convolutional Neural Network(CNN) is created.
+We are using three input layers and three dense layers along with dropout layers. 
 
 
 
