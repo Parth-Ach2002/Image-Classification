@@ -34,7 +34,7 @@ Here we are classifying three categories of traffic signs namely:
 ![jpgtopngconverter-com](https://github.com/Parth-Ach2002/Image-Classification/assets/141126437/ae32cb74-ec1d-4a3e-9636-0a8b47c414e0) 
 ![WhatsApp_Image_2023-08-27_at_17](https://github.com/Parth-Ach2002/Image-Classification/assets/141126437/aa215b4b-3007-4291-98d2-3eb8e7cec113)
 
-
+Practice
 
 
 
