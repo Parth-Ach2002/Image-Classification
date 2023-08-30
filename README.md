@@ -1,7 +1,7 @@
 # Image-Classification:
 A Deep Learning Project consisting of image classification and gradio interface for recognising and classifying traffic signs.
 Here we will be using Convolutional Neural Networks beacuse of their superior performance with image inputs.
-# Convolutional Neural Network(CNN)
+## Convolutional Neural Network(CNN)
 A Convolutional Neural Network (CNN) is a type of artificial neural network specifically designed for processing structured grid data, such as images and videos. CNNs are particularly powerful for tasks like image recognition, object detection, and image classification because they can automatically learn and extract meaningful features from the data.
 
 <br>
@@ -33,6 +33,16 @@ Here we are classifying three categories of traffic signs namely:
 ![jpgtopngconverter-com (1)](https://github.com/Parth-Ach2002/Image-Classification/assets/141126437/7ffa33af-f59e-43ef-9154-38fceac209d8) 
 ![jpgtopngconverter-com](https://github.com/Parth-Ach2002/Image-Classification/assets/141126437/ae32cb74-ec1d-4a3e-9636-0a8b47c414e0) 
 ![WhatsApp_Image_2023-08-27_at_17](https://github.com/Parth-Ach2002/Image-Classification/assets/141126437/aa215b4b-3007-4291-98d2-3eb8e7cec113)
+
+
+## How did we collect our data?
+<br>
+Most of our images is collected by us through mobile photography. We went to multiple roads and clicked the photos of our desired traffic signs and aggregated them together in the form of a dataset. 
+<br>
+Some of our images is also collected through online sources and then we combined every photos to form a perfect dataset of images with the same image type. 
+We also went through the street view of google maps and captured the images of traffic signs in the form of screenshot.
+<br>
+
 
 
 
