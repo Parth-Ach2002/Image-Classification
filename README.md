@@ -48,7 +48,7 @@ The necessary libraries are imported for preprocessing and model creation.
 <br>
 
 ### Importing data file
-Dataset is uploaded for the further use
+Dataset is uploaded for the further use.
 <br>
 
 ### Preprocessing
@@ -60,6 +60,30 @@ A little bit of data augmentation has also been performed.
 ### Model creation 
 A Sequential model using Convolutional Neural Network(CNN) is created.
 We are using three input layers and three dense layers along with dropout layers. 
+<br>
+
+### Compilation and fitting
+ Model compilation is an activity performed after writing the statements in a model and before training starts. It checks for format errors, and defines the loss function, the optimizer or learning rate, and the metrics. A compiled model is needed for training but not necessary for predicting.
+<br>
+Optimizer used is "adam" and loss function as "categorical crossentropy". Metrics used is "accuracy".
+<br>
+Model fitting is the process where we train our model with training data.
+<br>
+Number of epochs is 30 and batch size as 16. Epochs is defined as the total number of iterations of all the training data in one cycle for training the machine learning model. 
+<br>
+
+### Saving the model
+Model is saved for further use.
+<br>
+
+### Visualisation
+The predictions are visualised and classified as correct and incorrect predictions.
+<br>
+
+### Gradio Creation
+Gradio Interface is created for seamless user experience.
+Drag and Drop feature is introduced for submitting the image and predicting the image category.
+
 
 
 
