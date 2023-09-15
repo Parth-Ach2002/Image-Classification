@@ -58,7 +58,8 @@ A little bit of data augmentation has also been performed.
 
 ### Model creation 
 A Sequential model using Convolutional Neural Network(CNN) is created.
-We are using three input layers and three dense layers along with dropout layers. 
+We are using three input layers and three dense layers along with dropout layers.
+This model exists within a function with varying range of paramters.
 <br>
 
 ### Compilation and fitting
@@ -69,6 +70,10 @@ Optimizer used is "adam" and loss function as "categorical crossentropy". Metric
 Model fitting is the process where we train our model with training data.
 <br>
 Number of epochs is 30 and batch size as 16. Epochs is defined as the total number of iterations of all the training data in one cycle for training the machine learning model. 
+<br>
+
+### Hyperparamter Tuning 
+The model is created as a function which tries various parameters, weights and biases to find the optimal paramaters for the model. We limit the tuning if it takes too long too achieve convergence. The best parameters are then selected based on their performance on validation data.
 <br>
 
 ### Saving the model
